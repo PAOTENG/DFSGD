@@ -1,7 +1,7 @@
 # Spam Group Detection System — Quick Start
 
 Python interpreter: `D:\Environment\Anaconda\envs\SBA\python.exe`
-
+All experiments are conducted on Amazon datasets, using reviews collected from January to June 2013.
 ---
 
 ## Basic Usage
